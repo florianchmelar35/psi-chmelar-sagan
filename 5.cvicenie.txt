@@ -1,0 +1,6 @@
+12.03 priprava na 5.cvicenie 
+
+-rozdelenie akterov na dve hlavne skupiny z hladiska funkcnosti registrovani/neregistrovani
+-rozdelenie registrovanych na pracovnikov/zakaznikov
+-rozdelenie pracovnikov podla oddeleni ---> Administrartiva, Manazment, Inventarista, Usporiadatel
+-rozdelenie zakaznikov na "malych" a "velkych": maly-->hrac, divak; velky-->sponozor, medium, objednavatel 
