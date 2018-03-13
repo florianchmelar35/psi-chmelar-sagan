@@ -1,0 +1,10 @@
+Predkladanı dokumnet obsahuje špecifikáciu sofvérového systému, urèeného na organizáciu
+e-sport turnaja. Zahàòa organizáciu pred konnaním turnaja, èie registráciu hráèov, komunikáciu so sponzormi
+a médiami a samotné objednanie. Poèas konania bude náš systém hlavne zabezpeèova rıchlu aktualizáciu 
+štatistickıch údajov (skóre, vıhry/prehry ...), ale bude takisto pomáha pracovníkom pri ich úlohohách.
+
+Dokumnet je vısledkom študentského projektu v predmete Princípy softvérového ininierstva. Na projekt sme pracovali
+v tíme. Dokument bol vytváranı postupne na základe nadobudnutıch vedomostí. 
+
+Tento dokument je urèenı pre predstavenstvo spoloènosti zaoberajúcej sa orgánizáciou e-sport turnajov.  
+  
