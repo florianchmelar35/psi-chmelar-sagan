@@ -1,0 +1,43 @@
+Našim zákazníkom je spoločnosť, ktorá poskytuje služby spojené s organizáciou e-sport turnajov. Zahŕňa to turnaje pre rôzne počítačové hry, ktorých množina je vopred daná. Spoločnosť má svojich vlastných zamestnancov, má prenajaté priestory a technologické vymoženosti, ako napríklad počítače, obrazovky, kamery, či svetlá. Jej kapacity sú obmedzené veľkosťou prenajatých priestorov, technickým vybavením, či počtom ľudí potrebných na hladký priebeh turnaja. Jej zákazníkom sú ďalšie spoločnosti alebo konkrétni ľudia, ktorí chcú zorganizovať e-sport turnaj. 
+Momentálne náš zákazník funguje v značne obmedzených podmienkach. Komunikácia s jeho potencionálnymi zákazníkmi prebieha osobne alebo telefonicky, v menšej miere cez e-mail. Všetky vlastnené veci sú evidované len na papieri, teda neexistuje žiadna databáza. Informácie o nadchádzajúcich turnajoch sú dostupné iba na nástenke v sídle spoločnosti. Počas turnaja sú výsledky a štatistiky ručne zapisované na jednu veľkú tabuľu, neexistujú žiadne prenosy, či už na TV obrazovkách alebo live streamoch, takže ak chcú diváci sledovať zápasy naživo, musia stáť priamo za hráčmi a pozerať do obrazovky ich počítača.
+
+CIELE PROJEKTU
+
+1. Zjednodušenie prístupu k harmonogramu nadchádzajúcich turnajov
+2. Pohodlné elektronické prihlasovanie hráčov na turnaje
+3. Sprístupnenie informácií o aktuálnom turnaji na viacerých platformách
+4. Zjednodušenie komunikácie s potencionálnymi sponzormi
+5. Segregovanie komunikácie s rôznymi subjektmi
+6. Zlepšenie spolupráce s médiami
+7. Vytvorenie nástrojov na operácie s hracím systémom
+
+FUNKČNÉ
+
+Vytváraný informačný systém bude zjednodušovať a sprehľadňovať veľkú časť činností spojených s organizáciou a priebehom e-sport turnaja.
+1. Registrácia hráčov/tímov skrz webové rozhranie
+2. Databáza zahŕňajúca všetky požadované štatistiky z prebiehajúceho turnaja
+3. Systém nebude zahŕňať funkcionalitu spojenú s predajom lístkov, avšak bude o ňom informovať
+4. Elektornická evindencia inventára a dostupných priestorov
+5. Možnosť elektronickej komunikácie so sledovaním odozvy
+6. Databáza archivujúca údaje o turnajoch, ktoré už boli zorganizované a tých, ktoré sa budú konať v budúcnosti
+7. Poskytnutie živého prenosu zo všetkých prebiehajúcich zápasov, ktorých réžiu si zabezpečuje tretia strana
+
+Na predaj lístkov pomocou internetu, použijeme externý systém. Takýto systém pre nás zjednoduhší vývoj systému. Navyše by bolo nezodpovedné vytvárať platobný systém keď nemáme
+skúsenosti ani zdroje na realizovanie podobného projektu. Avšak budeme mať vytvorené rozhranie, ktoré presmeruje zákazníka na stránky predajcu lístkov. 
+
+Použivateľmi systému budú pracovníci spoločnosti, ktorá sa špecializuje na organizáciu e-sport turnajov. Ďalšia skupiny použivateľov sú fanúškovia,hráči,sponzori a média. 
+
+Keďže náš systém podporuje veľkú škálu hier, môže byť použitvý v mnohých spoločnostiach, ktoré sa zaoberajú organizovaním e-sport turnajov. Samozrejme by mohli nastať problémy pri konkrétnych hrách, ktoré majú neštandardné nároky. 
+
+NIE FUNKČNE
+
+Produkt bude mať podobu sieťovej aplikácie, prístupnej z webového rozhrania, ale aj z mobilnej aplikácie. Bude mať nasledovné vlastnosti:
+1. Musí zvládnuť nápor minimálne 10000 použivateľov 
+2. Rýchlosť aktualizovania štatistických údajov rádovo v milisekundách
+3. Umožnený voľný prístup, ale aj prístup skrz prihlasovacie údaje
+4. Vyšší štandard zabezpečenia v rámci celého systému - kvôli masívnosti niektorých udalostí
+5. Možnosť modifikovateľnosti vzhľadom na vývoj e-sport scény 
+
+Použivateľské rozhranie,  určené pre pracovníkov, bude intuitívne, avšak je možné že, kvôli zložitosti a rozsiahlosti bude potrebné zaškolenie niektorých použivateľov. Toto 
+neplatí pre používateľské rozhranie určeného verejnosti, ktoré bude pomerne jednoduché. Na prácu budú stačiť základné znalosti práce s počítačom.
+//obkec so zaškolením
